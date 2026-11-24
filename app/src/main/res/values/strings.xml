@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">건강 체크</string>
+    <string name="today_label">오늘</string>
+    <string name="med_section_title">오늘의 약 챙기기</string>
+    <string name="med_morning_title">아침 약</string>
+    <string name="med_morning_subtitle">식사 후 드세요</string>
+    <string name="med_lunch_title">점심 약</string>
+    <string name="med_lunch_subtitle">낮 시간에 드세요</string>
+    <string name="med_dinner_title">저녁 약</string>
+    <string name="med_dinner_subtitle">저녁 식사 후 드세요</string>
+    <string name="med_status_pending">아직 안 드셨어요</string>
+    <string name="med_status_done">복용 완료</string>
+    <string name="water_section_title">오늘 마신 물</string>
+    <string name="water_cup_unit">잔</string>
+    <string name="water_add_button">물 한 잔 마셨어요 (+1컵)</string>
+    <string name="water_undo_button">한 잔 줄이기 (-1)</string>
+    <string name="water_goal_hint">하루 8잔 목표</string>
+    <string name="water_goal_done">목표 8잔 달성! 잘 하셨어요</string>
+    <string name="cd_med_done">복용 완료 표시</string>
+    <string name="cd_med_pending">복용 전 표시</string>
+    <string name="cd_water_cup">물컵 채움 상태</string>
+    <string name="med_all_done_celebration">오늘도 건강 챙기기 성공!</string>
+    <string name="med_all_done_sub">아침, 점심, 저녁 약을 모두 드셨어요</string>
+    <string name="cd_water_cups_grid">물 8잔 중 %1$d잔 마심</string>
+    <string name="med_evening_warning_title">저녁 8시 약 복용 경고!</string>
+    <string name="med_evening_warning_detail">아직 안 드신 약: %1$s</string>
+    <string name="notif_channel_name">저녁 8시 약 복용 경고</string>
+    <string name="notif_channel_desc">저녁 8시까지 약을 복용하지 않았을 때 알림을 보냅니다.</string>
+    <string name="notif_warning_title">약 복용 경고 (저녁 8시)</string>
+    <string name="notif_warning_body">아직 안 드신 약이 있어요: %1$s</string>
+    <string name="notif_permission_prompt">저녁 8시에 약을 안 드셨을 때 알림을 받으려면 알림을 켜주세요.</string>
+    <string name="notif_permission_button">저녁 8시 알림 켜기</string>
+</resources>
